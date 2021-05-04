@@ -10,6 +10,7 @@ public class Base {
 
     @Test
     public void f1() {
+
         Assert.assertTrue(true);
     }
 }
